@@ -37,7 +37,7 @@ export default {
 };
 </script>
 
-<template></template>
+<template><div>ciao</div></template>
 
 <style lang="scss">
 @use '../style/general.scss';
